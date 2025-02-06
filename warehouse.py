@@ -73,12 +73,3 @@ def warehouse (vorodkhoroj, tarikh, namemalek, namekala, vazn, tedad, yeka):
                         
     #saving inventory word file
     doc.save('C:\\Ehsan\\inventory.docx')
-
-#namemalek = "علی موئمنی"
-#tarikh = None
-#namekala = 'مرغ'
-#vazn = 33
-#tedad = 3
-#yeka = 'کارتن'
-#vorodkhoroj = 'khoroj'
-#warehouse(vorodkhoroj, tarikh, namemalek, namekala, vazn, tedad, yeka)
