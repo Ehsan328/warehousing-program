@@ -40,11 +40,3 @@ def history (vorodkhoroj, tarikh, namemalek, namekala, vazn, tedad, yeka):
     doc.save('C:\\Ehsan\\history.docx')
 
 
-#namemalek = "علی موئمنی"
-#tarikh = '1403/08/12'
-#namekala = 'گوشت'
-#vazn = 100
-#tedad = 4
-#yeka = 'کارتن'
-#vorodkhoroj = 'khoroj'
-#history(vorodkhoroj, tarikh, namemalek, namekala, vazn, tedad, yeka)
