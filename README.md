@@ -7,3 +7,5 @@
 # pyQt5
 # docx 
 # time
+
+# there's an exe file of this project but i can't put it in github.
