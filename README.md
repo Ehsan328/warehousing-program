@@ -7,6 +7,6 @@
 
 # there's an exe file of this project but i can't put it in github.
 
-# in this project i use docx library to save and read information
+# in this project i use docx library to save and read information, i could use "pickle" to do these but with docx user can read and print information from a word file in program folder (inventory, history)
 
 # the project UI is designed with qt designer
