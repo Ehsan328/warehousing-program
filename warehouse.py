@@ -1,8 +1,7 @@
 from docx import Document
 from tablemaker import tablemake
 
-#کالا های هم نام با یکای متفاوت از هم متمایز می شن با فرمت کالا+ +یکا
-
+#goods with same names will seperate with different dimentions
 
 def warehouse (vorodkhoroj, tarikh, namemalek, namekala, vazn, tedad, yeka):
     #openning inventory word file
@@ -73,3 +72,4 @@ def warehouse (vorodkhoroj, tarikh, namemalek, namekala, vazn, tedad, yeka):
                         
     #saving inventory word file
     doc.save('C:\\Ehsan\\inventory.docx')
+
