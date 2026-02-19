@@ -16,7 +16,7 @@ Save data into two Word files:
   inventory.docx
   history.docx
 
-#How to Run
+# How to run
 Extract the project file (Ehsan) in Drive "C".
 Navigate to the dist folder.
 Run the executable file.
