@@ -1,7 +1,22 @@
-# porogram file is in there https://drive.google.com/file/d/1h5llAcqE5qrJDxJ-WwPtauyIDIeewjjf/view?usp=drive_link
+# Inventory Management System
+A desktop inventory management application built with Python and Qt5.
+The application allows users to manage products, track inventory changes, and store data in Word documents.
 
-# extract file in drive C and program is in dist folder
+# Technologies Used
+Python
+Qt5 (Qt Designer)
+python-docx
+Linux (tested environment)
 
-# informations will save into a word file (inventory and history)
+# Features
+Add new products
+Update product information
+Track inventory history
+Save data into two Word files:
+  inventory.docx
+  history.docx
 
-# i use word file for using data becuase it's easier for reading and print data
+#How to Run
+Extract the project file (Ehsan) in Drive "C".
+Navigate to the dist folder.
+Run the executable file.
